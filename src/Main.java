@@ -3,9 +3,9 @@ public class Main {
         /**
          * Задание 1. ФИО Сотрудников.
          */
-        String firstName = " Иван "; // имя в строке
-        String middleName = " Иванович "; // отчество в строке
-        String lastName = " Иванов "; // фамилия
+        String firstName = "Иван"; // имя в строке
+        String middleName = "Иванович"; // отчество в строке
+        String lastName = "Иванов"; // фамилия
         String fullName = lastName + firstName + middleName; // ФИО
         System.out.println(" ФИО сотрудника " + fullName);
         /**
